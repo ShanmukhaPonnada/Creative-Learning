@@ -1,2 +1,2 @@
 # Creative-Learning
-it will be helpful for students to gain Knowledge 
+It will be helpful for Learning students to gain Knowledge 
